@@ -12,4 +12,4 @@ use command to create own branch<br>
 
 use command to move own branch<br>
 
-    git checkout "mentee name"
+    git switch "mentee name"
