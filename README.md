@@ -1,8 +1,15 @@
 # T-SUM_2023_2
-for Tech Skill Up Mentoring program
 
-Mentee should make own branch for upload assignment
-use command to create own branch
-    git branch "mentee name"
-use command to move own branch
-    git checkout "mentee name"
+
+Mentee **have to** make own branch for upload assignment <br>
+
+
+use command to create own branch<br>
+
+
+    git branch "mentee name" <br>
+
+
+use command to move own branch<br>
+
+    git checkout "mentee name" <br>
