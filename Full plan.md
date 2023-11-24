@@ -34,3 +34,5 @@ _______
 ### Week GOAL: Write code for Machine Learning
 ### Assignment: Write code for Machine Learning from scratch
 _______
+_______
+#### Textbook: 딥러닝 텐서플로 교과서
