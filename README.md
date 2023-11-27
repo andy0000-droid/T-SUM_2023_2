@@ -13,3 +13,6 @@ use command to create own branch<br>
 use command to move own branch<br>
 
     git switch "mentee name"
+
+
+Curriculum is written in curriculum branches
