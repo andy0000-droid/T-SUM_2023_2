@@ -1,4 +1,5 @@
 # Syllabus
+# Program Goal: Implementation & Learn about GAN
 _______
 ## Week 1: Orientation
 ### Week GOAL: None
@@ -6,10 +7,10 @@ _______
 ## Week 2: Install anaconda \& Learn how to use conda environment
 ### Week GOAL: Successfully install anaconda in local environment
 _______
-## Week 3: Learn about module \& Install module \& Import
-### Week GOAL: Successfully install \& import module
+## Week 3: K-Means \& EM \& DBSCAN, MLP
+### Week GOAL: Learn about K-Means \& EM \& DBSCAN, MLP
 _______
-## Week 4: Wirte code for basic FILE I/O
+## Week 4: Loss function \& Performance improvement
 ### Week GOAL: Write code that can process FILE I/O
 _______
 ## Week 5: Write code for process csv/excel FILE Input
@@ -35,4 +36,4 @@ _______
 ### Assignment: Write code for Machine Learning from scratch
 _______
 _______
-#### Textbook: 딥러닝 텐서플로 교과서
+#### Textbook: 모두의 인공지능 with 파이썬
