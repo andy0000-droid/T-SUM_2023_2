@@ -20,12 +20,13 @@ _______
 ### Week GOAL: Learn about CNN algorithm
 ### Assignment: Write sample code for CNN algorithm
 _______
-## Week 7: RNN algorithm
-### Week GOAL: Learn about RNN algorithm
-### Assignment: Write sample code for RNN algorithm
-_______
-## Week 8: LSTM algorithm
+## Week 7: LSTM algorithm
 ### Week GOAL: Learn about LSTM algorithm
+### Assignment: Write sample code for LSTM algorithm
+_______
+## Week 8: GAN algorithm
+### Week GOAL: Learn about GAN algorithm
+### Assignment: Write sample code for GAN algorithm
 _______
 ## Week 9: Write Machine Learning code from scratch
 ### Week GOAL: Write code for Machine Learning
