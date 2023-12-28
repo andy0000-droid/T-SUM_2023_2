@@ -11,25 +11,25 @@ _______
 ### Week GOAL: Learn about K-Means \& EM \& DBSCAN, MLP
 _______
 ## Week 4: Loss function \& Performance improvement
-### Week GOAL: Write code that can process FILE I/O
+### Week GOAL: Learn about Loss function \& Performance improvement
 _______
-## Week 5: Write code for process csv/excel FILE Input
-### Week GOAL: Write code that can process csv/excel \& parsing
+## Week 5: Regulatioin princinple
+### Week GOAL: Learn about Regulatioin princinple
 _______
-## Week 6: Learn about numpy \& pandas
-### Week GOAL: Understand about numpy \& pandas / data type of numpy\& pandas
-### Assignment: Write sample code using numpy \& pandas
+## Week 6: CNN algorithm
+### Week GOAL: Learn about CNN algorithm
+### Assignment: Write sample code for CNN algorithm
 _______
-## Week 7: Learn about numpy \& pandas
-### Week GOAL: Understand about numpy \& pandas / data type of numpy\& pandas
-### Assignment: Write sample code using numpy \& pandas
+## Week 7: RNN algorithm
+### Week GOAL: Learn about RNN algorithm
+### Assignment: Write sample code for RNN algorithm
 _______
-## Week 8: Learn about Machine Leanring algorihtm
-### Week GOAL: Understand about Machine Learning algorithm
+## Week 8: LSTM algorithm
+### Week GOAL: Learn about LSTM algorithm
 _______
-## Week 9: Write sample code for Machine Learning
+## Week 9: Write Machine Learning code from scratch
 ### Week GOAL: Write code for Machine Learning
-### Assignment: Write sample code for Machine Learning
+### Assignment: Write sample code for Machine Learning from scratch
 _______
 ## Week 10: Write Machine Learning code from scratch
 ### Week GOAL: Write code for Machine Learning
