@@ -1,0 +1,12 @@
+total 75224
+drwxr-xr-x  11 choi  staff       352  2 24 19:15 .
+drwxr-xr-x  17 choi  staff       544  2 24 19:06 ..
+-rw-r--r--@  1 choi  staff      6148  1  1 03:10 .DS_Store
+drwxr-xr-x  15 choi  staff       480  2 24 19:06 .git
+-rw-r--r--   1 choi  staff        10  1  1 03:13 .gitignore
+-rw-r--r--   1 choi  staff      4800  1 17 14:44 CNN Example.ipynb
+-rw-r--r--   1 choi  staff     91412  1 13 18:28 CNN with tensorflow.ipynb
+-rw-r--r--   1 choi  staff    474852  1 13 18:28 CNN.pdf
+-rw-r--r--   1 choi  staff  37918144  1 13 18:28 MNIST_CNN_model.h5
+-rw-r--r--@  1 choi  staff       265  1  1 02:54 README.md
+-rw-r--r--   1 choi  staff         0  2 24 19:15 log.test
